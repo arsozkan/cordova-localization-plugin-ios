@@ -1,8 +1,5 @@
 # cordova-plugin-localization-ios
-Small plugin that adds localization parameters to the plist file.
+Small plugin that adds localization parameters to the plist file. (For Türkiye)
 
 This mainly done to translate iOS buttons like `Cancel`, `Done`, etc.
-
-# Original source
-[Translating “Done” button on iOS keyboard to other language](http://stackoverflow.com/a/27947343/1667461)
 
