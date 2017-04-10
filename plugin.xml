@@ -16,5 +16,16 @@
                 <string>tr_TR</string>
             </array>
         </config-file>
+        <config-file parent="NSCalendarsUsageDescription" platform="ios" target="*-Info.plist">
+                <string>Advertisement would like to create a calendar event.</string>
+        </config-file>
+        <config-file parent="NSPhotoLibraryUsageDescription" platform="ios" target="*-Info.plist">
+                <string>Advertisement would like to store a photo.</string>
+        </config-file>
+        <config-file parent="NSBluetoothPeripheralUsageDescription" platform="ios" target="*-Info.plist">
+                <string>Advertisement would like to use bluetooth.</string>
+        </config-file>
     </platform>
 </plugin>
+
+
